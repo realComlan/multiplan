@@ -1,4 +1,4 @@
-# Multi-agent planning for Treasure Hunting
+# Multi-agent planning in Treasure Hunting Environment
 
 
 ## 1. Introduction
