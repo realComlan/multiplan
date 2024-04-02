@@ -5,15 +5,15 @@
 To solve the posed treasure collection problem, we propose a Python program based on basic data classes and equipped with a graphical interface that facilitates the experimentation of our solution approach on a large number of problem instances. It is possible to speed up or slow down the execution, restart, generate new instances, and pause the execution at any time to examine the behaviors of the different elements more closely.
 The code of the Environment.py file has not been modified and is located in the main directory of the project.
 This report briefly presents the algorithms used and indicates the parts of the code (well-documented) that implement them.
-### 2. The Code
-#### 2.1 Prerequisites
+## 2. The Code
+### 2.1 Prerequisites
 The code requires the installation of version 2.5.2 of the pygame module used to develop the graphical interface.
 This can be done automatically by executing the install-requirements.sh script from the main directory of the project.
 
 ```bash
 bash install-requirements.sh
 ```
-## 2.2 Execution
+### 2.2 Execution
 The simplest way to execute the program is through the following command, to be launched from the main directory of the project:
 ```bash
 python main.py
