@@ -1,4 +1,4 @@
-# multiplan
+# Multi-agent planning for Treasure Hunting
 
 
 ## 1. Introduction
