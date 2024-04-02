@@ -22,6 +22,6 @@ Running this command launches the program by automatically generating an environ
 
 To specify a customized environment file, simply launch the program with the following command:
 ```bash
-python main.py env=path/to/env###.txt
+python main.py env=path/to/env.txt
 ```
 Then, press the yellow "go" button located at the bottom left of the program window.
