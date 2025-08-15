@@ -11,7 +11,9 @@ The code requires the installation of version 2.5.2 of the pygame module used to
 This can be done automatically by executing the install-requirements.sh script from the main directory of the project.
 
 ```bash
-bash install-requirements.sh
+python3 -m venv .venv
+source .venv/bin/activate
+pip3 install -r requirements.txt
 ```
 ### 2.2 Execution
 The simplest way to execute the program is through the following command, to be launched from the main directory of the project:
