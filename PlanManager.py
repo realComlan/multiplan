@@ -5,7 +5,7 @@ from MyOwnAgentChest import MyOwnAgentChest
 from MyOwnAgentStones import MyOwnAgentStones
 from Board import Board
 from Treasure import Treasure
-from environments.env_generator import Generator
+from env_generator import Generator
 import random
 import gc
 
